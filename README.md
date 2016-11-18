@@ -1,3 +1,4 @@
+- Not at all modular code !!
 - Code in "Jeu" folder
 - Dependencies: SDL2, freepascal
 - Windows compatible
